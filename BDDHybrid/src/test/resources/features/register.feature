@@ -6,7 +6,7 @@ When user enter below fields
 |	firstName					|Indra|
 |	lastName					|Patil|
 |	email							|Nitin@gmail.com|
-|	telephone					|1122334455|
+|	telephone					|1122334455|              
 |	password					|Indra@1234|
 And User Mark checkbox of privacy policy
 When User click on continue button
